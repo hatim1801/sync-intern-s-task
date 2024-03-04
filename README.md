@@ -1,1 +1,1 @@
-# sync-intern-s-task
+# sync-intern-task
